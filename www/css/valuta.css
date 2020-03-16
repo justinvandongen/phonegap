@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+}
+
+input {
+    font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    height: 30px;
+    width: 200px;
+    font-size: 30px;
+}
+
+select {
+    height: 30px;
+    font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+
+button {
+    margin-top: 25px;
+    font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    height: 30px;
+    background-color: #f9f9f9;
+    border: 1px solid #000000;
+}
+
+button:hover{
+    background-color: black;
+    color: #ffffff;
+    border: 1px solid #000000;
+}
